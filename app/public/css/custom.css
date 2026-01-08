@@ -1,0 +1,27 @@
+#description {
+    resize: none;
+}
+
+.img-list-ad {
+  width: 200px;
+}
+
+.carousel-indicators [data-bs-target] {
+    background-color: #888 !important;
+}
+
+.carousel-indicators .active {
+    background-color: #333 !important;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    filter: invert(20%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(100%);
+}
+
+
+.break-text {
+    word-break: break-word;
+    overflow-wrap: break-word;
+    
+}
